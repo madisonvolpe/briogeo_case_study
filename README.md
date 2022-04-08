@@ -8,7 +8,7 @@ Understand how the ratings of this product have changed over time. Customers hav
 - Reviews from ulta beauty 
 
 ## Tasks
-[] Webscrape makeup alley
-[] Webscrape ulta beauty
-[] Create tableau dashboard
-[] Additional analysis in python
+-[] Webscrape reviews from makeup alley
+-[] Webscrape reviews from ulta beauty
+-[] Create tableau dashboard
+-[] Additional analysis in python
