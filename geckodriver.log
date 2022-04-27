@@ -1,0 +1,336 @@
+1651019571254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/b0y5b7ks7892mv1j7fybdhzw0000gn/T/rust_mozprofile.bFbQa5OTHDlz"
+1651019585105	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1651019585727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1651019585727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1651019585727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1651019585727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1651019591871	Marionette	INFO	Listening on port 55775
+1651019594339	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/b0y5b7ks7892mv1j7fybdhzw0000gn/T/rust_mozprofile.mxo7QYWrjHq3"
+1651019595382	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1651019596027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1651019596027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1651019596028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1651019596028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1651019600128	Marionette	INFO	Listening on port 55898
+1651019600159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://conversation.ultainc.com/ccp/webchat.js, line 1125: unreachable code after return statement
+JavaScript warning: https://conversation.ultainc.com/ccp/webchat.js, line 1611: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 680"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:680:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1954:69
+addAllSources@resource://devtools/server/actors/thread.js:1338:14
+onSources@resource://devtools/server/actors/thread.js:1344:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 680, column: 0
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 680: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+1651020182784	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/b0y5b7ks7892mv1j7fybdhzw0000gn/T/rust_mozprofile.NHNxw9VoTlf7"
+1651020184488	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1651020185125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1651020185126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1651020185126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1651020185126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1651020189732	Marionette	INFO	Listening on port 56626
+1651020189787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://conversation.ultainc.com/ccp/webchat.js, line 1125: unreachable code after return statement
+JavaScript warning: https://conversation.ultainc.com/ccp/webchat.js, line 1611: unreachable code after return statement
+JavaScript warning: https://conversation.ultainc.com/ccp/webchat.js, line 1125: unreachable code after return statement
+JavaScript error: https://js.afterpay.com/afterpay-1.x.js?_=1651020193112, line 2: Error: Afterpay.js was not loaded
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+1651020250609	Marionette	INFO	Stopped listening on port 55775
+1651020252707	Marionette	INFO	Stopped listening on port 55898
+1651020256162	Marionette	INFO	Stopped listening on port 56626
+1651020370079	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/b0y5b7ks7892mv1j7fybdhzw0000gn/T/rust_mozprofile.J1iQZIRANOyc"
+1651020370806	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1651020371273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1651020371273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1651020371273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1651020371273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1651020374198	Marionette	INFO	Listening on port 57187
+1651020374282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651020417484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/b0y5b7ks7892mv1j7fybdhzw0000gn/T/rust_mozprofile.paxre1br4SUU"
+1651020418398	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1651020418860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1651020418860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1651020418860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1651020418860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1651020421899	Marionette	INFO	Listening on port 57294
+1651020421913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://conversation.ultainc.com/ccp/webchat.js, line 1125: unreachable code after return statement
+JavaScript warning: https://conversation.ultainc.com/ccp/webchat.js, line 1611: unreachable code after return statement
+1651020479100	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/b0y5b7ks7892mv1j7fybdhzw0000gn/T/rust_mozprofile.6eh7Dq2IBrys"
+1651020480047	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1651020480514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1651020480514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1651020480514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1651020480515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1651020483271	Marionette	INFO	Listening on port 57772
+1651020483311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1651020556284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/b0y5b7ks7892mv1j7fybdhzw0000gn/T/rust_mozprofile.8pWpUr9gj9A0"
+1651020557499	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1651020557886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1651020557886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1651020557886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1651020557886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1651020560847	Marionette	INFO	Listening on port 57887
+1651020560921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://conversation.ultainc.com/ccp/webchat.js, line 1125: unreachable code after return statement
+JavaScript warning: https://conversation.ultainc.com/ccp/webchat.js, line 1611: unreachable code after return statement
+JavaScript error: https://js.afterpay.com/afterpay-1.x.js?_=1651020564270, line 2: Error: Afterpay.js was not loaded
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+JavaScript error: https://static.goqubit.com/smartserve-4538.js, line 10: TypeError: document.querySelector(...).shadowRoot.querySelector(...) is null
+1651021617778	Marionette	INFO	Stopped listening on port 57187
+1651021620385	Marionette	INFO	Stopped listening on port 57294
+1651021623115	Marionette	INFO	Stopped listening on port 57772
+1651021625720	Marionette	INFO	Stopped listening on port 57887
