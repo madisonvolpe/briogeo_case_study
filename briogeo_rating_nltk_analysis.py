@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[5]:
+# In[1]:
 
 
 # import libraries
@@ -11,7 +11,7 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 from nltk.corpus import stopwords
 
 
-# In[6]:
+# In[2]:
 
 
 # create SentimentIntensityAnalyzer 
@@ -93,6 +93,41 @@ bigrams_df = pd.DataFrame(bigrams_dict)
 bigrams_df_final = bigrams_df.explode('Bigrams')
 # save dataframe 
 bigrams_df_final.to_csv("./data/briogeo_ulta_rating_bigrams.csv")
+
+
+# In[4]:
+
+
+# create trigrams of the reviews
+
+trigrams_dict = {'Review_ID': [],'Rating_Submit_Dt': [],'Trigrams': []}
+
+for i in range(len(brio.Review)):
+    # save review id
+    trigrams_dict['Review_ID'].append(brio.Review_ID[i])
+    # save review submit date
+    trigrams_dict['Rating_Submit_Dt'].append(brio.Rating_Submit_Dt[i])
+    # tokenize each review
+    review = brio.Review[i]
+    review = review.replace("'", "")
+    review = review.lower()
+    review = nltk.word_tokenize(review)
+    review = [w for w in review if not w in stop_words]
+    review = [w for w in review if w.isalpha()]
+    trigrams = nltk.trigrams(review)
+    trigrams = [' '.join(tup) for tup in trigrams]
+    trigrams_dict['Trigrams'].append(trigrams)  
+
+
+# In[6]:
+
+
+# convert dictionary to dataframe
+trigrams_df = pd.DataFrame(trigrams_dict)
+# create a long dataframe - each review id is repreated for each word in review
+trigrams_df_final = trigrams_df.explode('Trigrams')
+# save dataframe 
+trigrams_df_final.to_csv("./data/briogeo_ulta_rating_trigrams.csv")
 
 
 # In[124]:
