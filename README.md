@@ -23,10 +23,12 @@ In sum, I found the following: the average rating on Ulta.com for this mask has 
 ## Analysis
 - **_Ulta Scraper.py_** - Web scraping script 
 - **_briogeo_rating_nltk_analysis.py_** - VADER sentiment analysis and create wordlists (bigrams & trigrams) for further analysis in Tableau
-- **!TABLEAU WORKBOOK HERE!**
+- **briogeo_case_study.twbx** - Packaged Tableau workbook that includes the final analysis dashboard
 
 ## Final Product & Conclusions
-Link to Tableau Public workbook
+I uploaded the tableau workbook on Tableau Public: [here](https://public.tableau.com/app/profile/madison.volpe/viz/briogeo_case_study/Briogeodash). In the dashboard, you can clearly see that the ratings for the hair mask have decreased since 2020. Likewise, the proportion of reviews deemed as having a negative sentiment based on the VADER analysis has increased in recent years. In addition to looking at ratings and sentinment for the reviews, there is also an option to see the top 10 unigrams, bigrams, or trigrams by year and sentiment classification (positive, neutral, negative). 
+
+Overall, this analysis confirmed my suspicions. I still personally love the mask, but other people are not as happy with it in current times. While I am happy with the analysis, there could be improvements especially with the text analysis and playing around with different algorithims. Perhaps in the future, I will update the analysis. 
 
 #### Extra
 In addition to Ulta reviews, I also webscraped reviews for this product from Makeup Alley. However, I did not end up using them in my analysis. The dataset and code for the Makup Alley reviews are in this repository as: data/**_briogeo_rating_makeupalley.csv_** & **_Makeup Alley Scraper.py_**.
