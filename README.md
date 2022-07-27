@@ -6,7 +6,7 @@ I frequently use Briogeo's "Don't Despair, Repair!" deep conditioning mask in my
 
 For the analysis, I webscraped reviews for this product from Ulta's website. I conducted exploratory analysis and analyzed the product ratings overtime. Likewise, I also analyzed the sentiment of the written reviews overtime. 
 
-In sum, I found the following: **!RESULTS HERE!**
+In sum, I found the following: the average rating on Ulta.com for this mask has decreased since 2020. Likewise, the positive sentiment of the reviews for this product have decreased since 2020.
 
 ## Data Sources 
 - Reviews from Ulta (Webscraped reviews from Ulta's website, n = 2958 reviews, spanning from November 2014 to May 2022)
