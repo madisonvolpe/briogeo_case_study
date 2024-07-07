@@ -18,7 +18,7 @@ In sum, I found the following: the average rating on Ulta.com for this mask has 
   
   - data/**_briogeo_ulta_rating_bigrams.csv_** - Long dataset with each Review_ID repeated for the bigrams within each review. Stop words are excluded. 
   
-  - data/**_briogeo_ulta_rating_trigrams.csv_** - Long dataset with each Review_ID repeeated for the trigrams within each review. Stop words are excluded.
+  - data/**_briogeo_ulta_rating_trigrams.csv_** - Long dataset with each Review_ID repeated for the trigrams within each review. Stop words are excluded.
 
 ## Analysis
 - **_Ulta Scraper.py_** - Web scraping script 
