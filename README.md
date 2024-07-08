@@ -8,11 +8,11 @@ Ultimately, I found that ratings for the mask as well as positive sentiment expr
 
 **Decrease in ratings**
 
+![](/exec_summary_images/ratings.png)
 
 **Decrease in positive sentiment**
 
-
-
+![](/exec_summary_images/sentiment.png)
 
 
 The final analysis product was a dashboard saved on [Tableau Public](https://public.tableau.com/app/profile/madison.volpe/viz/briogeo_case_study/Briogeodash). 
