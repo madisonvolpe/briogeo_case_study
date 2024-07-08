@@ -1,5 +1,22 @@
 # Case Study of Briogeo's "Don't Despair, Repair!" Deep Conditioning Mask
 
+Executive Summary
+--
+For this project, I analyzed reviews from Ulta.com to examine the trend of ratings for Briogeo's "Don't Despair, Repair!" hair mask. I webscraped data from Ulta.com using python's beautifulsoup and selenium packages. After I used the resulting dataset to examine trends in the product's rating over time. I also conducted a text analysis on the product's reviews using VADER sentiment analysis. 
+
+Ultimately, I found that ratings for the mask as well as positive sentiment expressed in the text of the reviews have both decreased since 2020. This aligns with my own research and reading reviews on reddit that customers were disappointed with the mask since they changed the product's formula. 
+
+**Decrease in ratings**
+
+
+**Decrease in positive sentiment**
+
+
+
+
+
+The final analysis product was a dashboard saved on [Tableau Public](https://public.tableau.com/app/profile/madison.volpe/viz/briogeo_case_study/Briogeodash). 
+
 ## Motivation & Analysis Summary
 
 I frequently use Briogeo's "Don't Despair, Repair!" deep conditioning mask in my own hair. I have loved the results, but I have heard and read online that the formula for the mask changed. As a result, some customers are not as happy with the mask as they once were. As a "Hair Care Guru" in my spare time and Data Analyst for my day job, I decided to look at the reviews for this product and see if the ratings for this product have changed overtime. 
